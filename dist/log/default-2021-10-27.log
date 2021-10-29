@@ -1,0 +1,143 @@
+[2021-10-27 20:56:42.820] [error] 1234
+[2021-10-27 20:56:54.812] [error] 1234
+[2021-10-27 20:56:54.816] [info]  1234
+[2021-10-27 20:56:54.818] [warn]  1234
+[2021-10-27 20:56:54.818] [debug] 1234
+[2021-10-27 21:05:19.891] [error] 1234
+[2021-10-27 21:05:19.895] [info]  1234
+[2021-10-27 21:05:19.896] [warn]  1234
+[2021-10-27 21:05:19.896] [debug] 1234
+[2021-10-27 21:05:27.778] [error] "1234"
+[2021-10-27 21:05:27.782] [info]  "1234"
+[2021-10-27 21:05:27.783] [warn]  "1234"
+[2021-10-27 21:05:27.783] [debug] "1234"
+[2021-10-27 21:14:22.772] [error] "1234"
+[2021-10-27 21:14:22.776] [info]  "1234"
+[2021-10-27 21:14:22.778] [warn]  "1234"
+[2021-10-27 21:14:22.778] [debug] "1234"
+[2021-10-27 21:14:27.020] [error] 1234
+[2021-10-27 21:14:27.024] [info]  1234
+[2021-10-27 21:14:27.025] [warn]  1234
+[2021-10-27 21:14:27.025] [debug] 1234
+[2021-10-27 21:15:37.942] [error] 1234
+[2021-10-27 21:15:37.946] [info]  1234
+[2021-10-27 21:15:37.947] [warn]  1234
+[2021-10-27 21:15:37.948] [debug] 1234
+[2021-10-27 21:15:37.948] [error] 1234
+[2021-10-27 21:15:37.948] [info]  1234
+[2021-10-27 21:15:37.948] [warn]  1234
+[2021-10-27 21:15:37.949] [debug] 1234
+[2021-10-27 21:15:37.949] [error] { a: '123' }
+[2021-10-27 21:15:37.950] [info]  { a: '123' }
+[2021-10-27 21:15:37.950] [warn]  { a: '123' }
+[2021-10-27 21:15:37.951] [debug] { a: '123' }
+[2021-10-27 21:15:37.951] [error] true
+[2021-10-27 21:15:37.951] [info]  true
+[2021-10-27 21:15:37.952] [warn]  true
+[2021-10-27 21:15:37.952] [debug] true
+[2021-10-27 21:15:37.952] [error] [ '', true ]
+[2021-10-27 21:15:37.953] [info]  [ '', true ]
+[2021-10-27 21:15:37.953] [warn]  [ '', true ]
+[2021-10-27 21:15:37.953] [debug] [ '', true ]
+[2021-10-27 21:17:38.095] [error] 1234
+[2021-10-27 21:17:38.099] [info]  1234
+[2021-10-27 21:17:38.101] [warn]  1234
+[2021-10-27 21:17:38.101] [debug] 1234
+[2021-10-27 21:17:38.101] [error] 1234
+[2021-10-27 21:17:38.101] [info]  1234
+[2021-10-27 21:17:38.102] [warn]  1234
+[2021-10-27 21:17:38.102] [debug] 1234
+[2021-10-27 21:17:38.102] [error] { a: '123' }
+[2021-10-27 21:17:38.103] [info]  { a: '123' }
+[2021-10-27 21:17:38.104] [warn]  { a: '123' }
+[2021-10-27 21:17:38.104] [debug] { a: '123' }
+[2021-10-27 21:17:38.104] [error] true
+[2021-10-27 21:17:38.104] [info]  true
+[2021-10-27 21:17:38.105] [warn]  true
+[2021-10-27 21:17:38.105] [debug] true
+[2021-10-27 21:17:38.105] [error] [ '', true ]
+[2021-10-27 21:17:38.106] [info]  [ '', true ]
+[2021-10-27 21:17:38.106] [warn]  [ '', true ]
+[2021-10-27 21:17:38.106] [debug] [ '', true ]
+[2021-10-27 21:17:38.106] [error] [ '', true ]
+[2021-10-27 21:17:38.106] [info]  [ '', true ]
+[2021-10-27 21:17:38.106] [warn]  [ '', true ]
+[2021-10-27 21:17:38.106] [debug] Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:17:38.107] [error] Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:18:04.346] [error] 1234
+[2021-10-27 21:18:04.349] [info]  1234
+[2021-10-27 21:18:04.350] [warn]  1234
+[2021-10-27 21:18:04.351] [debug] 1234
+[2021-10-27 21:18:04.351] [error] 1234
+[2021-10-27 21:18:04.351] [info]  1234
+[2021-10-27 21:18:04.351] [warn]  1234
+[2021-10-27 21:18:04.351] [debug] 1234
+[2021-10-27 21:18:04.352] [error] { a: '123' }
+[2021-10-27 21:18:04.353] [info]  { a: '123' }
+[2021-10-27 21:18:04.353] [warn]  { a: '123' }
+[2021-10-27 21:18:04.353] [debug] { a: '123' }
+[2021-10-27 21:18:04.353] [error] true
+[2021-10-27 21:18:04.354] [info]  true
+[2021-10-27 21:18:04.354] [warn]  true
+[2021-10-27 21:18:04.354] [debug] true
+[2021-10-27 21:18:04.355] [error] [ '', true ]
+[2021-10-27 21:18:04.355] [info]  [ '', true ]
+[2021-10-27 21:18:04.355] [warn]  [ '', true ]
+[2021-10-27 21:18:04.356] [debug] [ '', true ]
+[2021-10-27 21:18:04.356] [error] [ '', true ]
+[2021-10-27 21:18:04.356] [info]  [ '', true ]
+[2021-10-27 21:18:04.356] [warn]  [ '', true ]
+[2021-10-27 21:18:04.356] [debug] Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:18:04.356] [error] Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:18:04.357] [info]  Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:18:04.357] [warn]  Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-27 21:18:04.357] [debug] Error: ,true
+    at Object.<anonymous> (/Users/zhou/Desktop/XM-Logger/test/test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47

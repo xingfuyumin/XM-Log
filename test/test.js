@@ -1,0 +1,31 @@
+const XmLogger = require('../dist/index').default;
+
+XmLogger.init()
+XmLogger.error('default', '1234');
+XmLogger.info('default', '1234');
+XmLogger.warn('default', '1234');
+XmLogger.debug('default', '1234');
+XmLogger.error('default', 1234);
+XmLogger.info('default', 1234);
+XmLogger.warn('default', 1234);
+XmLogger.debug('default', 1234);
+XmLogger.error('default', {a: '123'});
+XmLogger.info('default', {a: '123'});
+XmLogger.warn('default', {a: '123'});
+XmLogger.debug('default', {a: '123'});
+XmLogger.error('default', true);
+XmLogger.info('default', true);
+XmLogger.warn('default', true);
+XmLogger.debug('default', true);
+XmLogger.error('default', ['', true]);
+XmLogger.info('default', ['', true]);
+XmLogger.warn('default', ['', true]);
+XmLogger.debug('default', ['', true]);
+XmLogger.error(['', true]);
+XmLogger.info(['', true]);
+XmLogger.warn(['', true]);
+XmLogger.debug(new Error(['', true]));
+XmLogger.error(new Error(['', true]));
+XmLogger.info(new Error(['', true]));
+XmLogger.warn(new Error(['', true]));
+XmLogger.debug(new Error(['', true]));

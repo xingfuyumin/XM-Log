@@ -1,0 +1,19 @@
+{
+  "name": "xm-logger",
+  "version": "1.0.0",
+  "description": "给桌面应用和后台服务提供日志打印机保存服务",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc",
+    "start": "node test/test.js"
+  },
+  "author": "周小明",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "electron-log": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
