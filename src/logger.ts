@@ -21,6 +21,7 @@ class Logger {
   private config = defaultConfig;
   private name = '';
   private num = -1; // 当前日志文件编号，大小超过maxSize就会自动+1，不需要用户配置
+  private output = '';
 
   constructor(name: string, config: LoggerConfig = defaultConfig) {
     const { file, console, debug, output, maxSize } = config;
@@ -28,12 +29,15 @@ class Logger {
     if (!this.logger) {
       throw new Error(`创建日志对象：${name}失败！`);
     }
-    this.config = config as any;
+    this.config = { ...defaultConfig, ...config } as any;
     this.name = name;
     this.getNum();
+    this.getFileName();
+    this.logger.transports.console.format = '[{y}-{m}-{d} {h}:{i}:{s}.{ms}] [{level}] {text}';
+    this.logger.transports.file.format = '[{y}-{m}-{d} {h}:{i}:{s}.{ms}] [{level}] {text}';
     this.logger.transports.file.level = file ? (debug ? 'debug' : 'error') : false;
     this.logger.transports.console.level = console ? (debug ? 'debug' : 'error') : false;
-    this.logger.transports.file.file = this.getFileName();
+    this.logger.transports.file.resolvePath = () => this.output;
     this.logger.transports.file.maxSize = Number.MAX_SAFE_INTEGER;
   }
 
@@ -69,7 +73,7 @@ class Logger {
    */
   private getFileName = () => {
     const { output } = this.config;
-    return `${output}${this.name}-${dayjs().format('YYYY-MM-DD')}${this.num === -1 ? '' : '-'}${this.num === -1 ? '' : this.num}.log`
+    this.output = `${output}${this.name}-${dayjs().format('YYYY-MM-DD')}${this.num === -1 ? '' : '-'}${this.num === -1 ? '' : this.num}.log`
   }
 
   /**
@@ -77,14 +81,14 @@ class Logger {
    */
   private checkFileSize = () => {
     const { maxSize } = this.config;
-    const fileName = this.getFileName();
-    if (!fs.existsSync(fileName)) {
-      fs.writeFileSync(fileName, '');
+    if (!fs.existsSync(this.output)) {
+      fs.writeFileSync(this.output, '');
     }
-    const size = fs.statSync(fileName)?.size / 1048576;
+    const size = fs.statSync(this.output)?.size / 1048576;
     if (maxSize < size) {
       this.num += 1;
-      this.logger.transports.file.file = this.getFileName();
+      this.getFileName();
+      this.logger.transports.file.resolvePath = () => this.output;
     }
   }
 
@@ -97,7 +101,9 @@ class Logger {
     if (!debug && (level === 'info' || level === 'debug' || level === 'warn')) {
       return;
     }
-    this.logger[level](msg);
+    const error = new Error().stack?.split('\n')[3];
+    const str = error?.substring(error.indexOf('(') + 1, error.lastIndexOf(')')) || '';
+    this.logger[level](`[${str.substring(0, str.lastIndexOf(':'))}]`, msg);
   }
 }
 

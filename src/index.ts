@@ -1,20 +1,20 @@
-import Logger from "./logger";
-import { LoggerConfig } from "./type";
+import Logger from './logger';
+import { LoggerConfig } from './type';
 
-const fs = require("fs");
-const path = require("path");
+const fs = require('fs');
+const path = require('path');
 
 /**
  * 获取项目根目录
  */
 const getRootDir = () => {
-  if (__dirname.includes("/node_modules/")) {
+  if (__dirname.includes('/node_modules') || __dirname.includes('\\node_modules')) {
     // 当做包被引入时
-    return __dirname.split("/node_modules/")[0];
+    return __dirname.split('node_modules')[0];
   }
-  if (__dirname.includes("/src/")) {
+  if (__dirname.includes('/dist') || __dirname.includes('\\dist')) {
     // 本地开发时
-    return __dirname.split("/src/")[0];
+    return __dirname.split('dist')[0];
   }
   return __dirname; // 保险情况
 };
@@ -23,7 +23,7 @@ const defaultConfig = {
   file: true,
   console: true,
   debug: true,
-  output: `${getRootDir()}/log/`,
+  output: `${getRootDir()}log/`,
   maxSize: 5,
 } as LoggerConfig;
 
@@ -42,9 +42,9 @@ namespace XmLogger {
   };
 
   /**
-   * 新增logger对象
+   * 移除logger对象
    */
-  export const removeLogger = (name: string) => {
+   export const removeLogger = (name: string) => {
     loggerMap.delete(name);
   };
 
@@ -52,20 +52,23 @@ namespace XmLogger {
    * 初始化配置
    */
   export const init = () => {
-    const fileName = `${getRootDir()}/xmlogger.json`;
+    const fileName = `${getRootDir()}xmlogger.json`;
     let configObj = {} as { [key: string]: LoggerConfig };
     if (fs.existsSync(fileName)) {
       // 文件不存在就用默认配置
       try {
-        configObj = JSON.parse(fs.readFileSync(fileName).toString() || "{}");
+        configObj = JSON.parse(fs.readFileSync(fileName).toString() || '{}');
       } catch {}
     }
     if (!configObj || Object.values(configObj).length === 0) {
-      addLogger("default", defaultConfig);
+      addLogger('default', defaultConfig);
       return;
     }
     Object.keys(configObj).forEach((key) => {
-      const config = configObj[key] as LoggerConfig;
+      const config = {...defaultConfig, ...configObj[key] } as LoggerConfig;
+      if (!config.output.endsWith('\\') &&! config.output.endsWith('/')) {
+        config.output = `${config.output}/`;
+      }
       addLogger(key, config);
     });
   };

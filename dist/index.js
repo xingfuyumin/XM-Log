@@ -1,22 +1,33 @@
 "use strict";
+var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var logger_1 = __importDefault(require("./logger"));
-var fs = require("fs");
-var path = require("path");
+var fs = require('fs');
+var path = require('path');
 /**
  * 获取项目根目录
  */
 var getRootDir = function () {
-    if (__dirname.includes("/node_modules/")) {
+    if (__dirname.includes('/node_modules') || __dirname.includes('\\node_modules')) {
         // 当做包被引入时
-        return __dirname.split("/node_modules/")[0];
+        return __dirname.split('node_modules')[0];
     }
-    if (__dirname.includes("/src/")) {
+    if (__dirname.includes('/dist') || __dirname.includes('\\dist')) {
         // 本地开发时
-        return __dirname.split("/src/")[0];
+        return __dirname.split('dist')[0];
     }
     return __dirname; // 保险情况
 };
@@ -24,7 +35,7 @@ var defaultConfig = {
     file: true,
     console: true,
     debug: true,
-    output: getRootDir() + "/log/",
+    output: getRootDir() + "log/",
     maxSize: 5,
 };
 var XmLogger;
@@ -43,7 +54,7 @@ var XmLogger;
         }
     };
     /**
-     * 新增logger对象
+     * 移除logger对象
      */
     XmLogger.removeLogger = function (name) {
         loggerMap.delete(name);
@@ -52,21 +63,24 @@ var XmLogger;
      * 初始化配置
      */
     XmLogger.init = function () {
-        var fileName = getRootDir() + "/xmlogger.json";
+        var fileName = getRootDir() + "xmlogger.json";
         var configObj = {};
         if (fs.existsSync(fileName)) {
             // 文件不存在就用默认配置
             try {
-                configObj = JSON.parse(fs.readFileSync(fileName).toString() || "{}");
+                configObj = JSON.parse(fs.readFileSync(fileName).toString() || '{}');
             }
             catch (_a) { }
         }
         if (!configObj || Object.values(configObj).length === 0) {
-            XmLogger.addLogger("default", defaultConfig);
+            XmLogger.addLogger('default', defaultConfig);
             return;
         }
         Object.keys(configObj).forEach(function (key) {
-            var config = configObj[key];
+            var config = __assign(__assign({}, defaultConfig), configObj[key]);
+            if (!config.output.endsWith('\\') && !config.output.endsWith('/')) {
+                config.output = config.output + "/";
+            }
             XmLogger.addLogger(key, config);
         });
     };

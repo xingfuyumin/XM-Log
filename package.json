@@ -1,19 +1,24 @@
 {
-  "name": "xm-logger",
-  "version": "1.0.0",
-  "description": "给桌面应用和后台服务提供日志打印机保存服务",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "tsc",
-    "start": "node test/test.js"
-  },
-  "author": "周小明",
-  "license": "ISC",
-  "dependencies": {
-    "dayjs": "^1.10.7",
-    "electron-log": "^4.4.1"
-  },
-  "devDependencies": {
-    "@types/node": "^16.11.6"
-  }
+    "name": "xm-log",
+    "version": "2.0.2",
+    "description": "给桌面应用和后台服务提供日志打印机保存服务",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "tsc",
+        "start": "tsc && node --trace-deprecation test/test.js"
+    },
+    "author": "周小明",
+    "license": "ISC",
+    "dependencies": {
+        "dayjs": "^1.10.7",
+        "electron-log": "^4.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xingfuyumin/XM-Logger"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.6"
+    }
+
 }

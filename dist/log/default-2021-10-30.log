@@ -1,0 +1,1323 @@
+[2021-10-30 10:27:56.361] [error] 1234
+[2021-10-30 10:27:56.366] [info]  1234
+[2021-10-30 10:27:56.368] [warn]  1234
+[2021-10-30 10:27:56.370] [debug] 1234
+[2021-10-30 10:27:56.371] [error] 1234
+[2021-10-30 10:27:56.373] [info]  1234
+[2021-10-30 10:27:56.374] [warn]  1234
+[2021-10-30 10:27:56.376] [debug] 1234
+[2021-10-30 10:27:56.377] [error] { a: '123' }
+[2021-10-30 10:27:56.380] [info]  { a: '123' }
+[2021-10-30 10:27:56.381] [warn]  { a: '123' }
+[2021-10-30 10:27:56.382] [debug] { a: '123' }
+[2021-10-30 10:27:56.384] [error] true
+[2021-10-30 10:27:56.385] [info]  true
+[2021-10-30 10:27:56.386] [warn]  true
+[2021-10-30 10:27:56.387] [debug] true
+[2021-10-30 10:27:56.388] [error] [ '', true ]
+[2021-10-30 10:27:56.394] [info]  [ '', true ]
+[2021-10-30 10:27:56.397] [warn]  [ '', true ]
+[2021-10-30 10:27:56.398] [debug] [ '', true ]
+[2021-10-30 10:27:56.398] [error] [ '', true ]
+[2021-10-30 10:27:56.400] [info]  [ '', true ]
+[2021-10-30 10:27:56.401] [warn]  [ '', true ]
+[2021-10-30 10:27:56.402] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:27:56.404] [error] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:27:56.406] [info]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:27:56.408] [warn]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:27:56.409] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:29:13.597] [error] 1234
+[2021-10-30 10:29:13.604] [info]  1234
+[2021-10-30 10:29:13.605] [warn]  1234
+[2021-10-30 10:29:13.606] [debug] 1234
+[2021-10-30 10:29:13.607] [error] 1234
+[2021-10-30 10:29:13.609] [info]  1234
+[2021-10-30 10:29:13.611] [warn]  1234
+[2021-10-30 10:29:13.613] [debug] 1234
+[2021-10-30 10:29:13.614] [error] { a: '123' }
+[2021-10-30 10:29:13.617] [info]  { a: '123' }
+[2021-10-30 10:29:13.619] [warn]  { a: '123' }
+[2021-10-30 10:29:13.620] [debug] { a: '123' }
+[2021-10-30 10:29:13.621] [error] true
+[2021-10-30 10:29:13.623] [info]  true
+[2021-10-30 10:29:13.624] [warn]  true
+[2021-10-30 10:29:13.624] [debug] true
+[2021-10-30 10:29:13.625] [error] [ '', true ]
+[2021-10-30 10:29:13.626] [info]  [ '', true ]
+[2021-10-30 10:29:13.627] [warn]  [ '', true ]
+[2021-10-30 10:29:13.628] [debug] [ '', true ]
+[2021-10-30 10:29:13.629] [error] [ '', true ]
+[2021-10-30 10:29:13.630] [info]  [ '', true ]
+[2021-10-30 10:29:13.631] [warn]  [ '', true ]
+[2021-10-30 10:29:13.632] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:29:13.633] [error] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:29:13.635] [info]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:29:13.637] [warn]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:29:13.639] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:52:58.384] [error] 1234
+[2021-10-30 10:52:58.390] [info]  1234
+[2021-10-30 10:52:58.392] [warn]  1234
+[2021-10-30 10:52:58.393] [debug] 1234
+[2021-10-30 10:52:58.394] [error] 1234
+[2021-10-30 10:52:58.396] [info]  1234
+[2021-10-30 10:52:58.397] [warn]  1234
+[2021-10-30 10:52:58.398] [debug] 1234
+[2021-10-30 10:52:58.400] [error] { a: '123' }
+[2021-10-30 10:52:58.403] [info]  { a: '123' }
+[2021-10-30 10:52:58.404] [warn]  { a: '123' }
+[2021-10-30 10:52:58.405] [debug] { a: '123' }
+[2021-10-30 10:52:58.407] [error] true
+[2021-10-30 10:52:58.408] [info]  true
+[2021-10-30 10:52:58.409] [warn]  true
+[2021-10-30 10:52:58.409] [debug] true
+[2021-10-30 10:52:58.410] [error] [ '', true ]
+[2021-10-30 10:52:58.411] [info]  [ '', true ]
+[2021-10-30 10:52:58.413] [warn]  [ '', true ]
+[2021-10-30 10:52:58.414] [debug] [ '', true ]
+[2021-10-30 10:52:58.414] [error] [ '', true ]
+[2021-10-30 10:52:58.416] [info]  [ '', true ]
+[2021-10-30 10:52:58.417] [warn]  [ '', true ]
+[2021-10-30 10:52:58.419] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:52:58.420] [error] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:52:58.422] [info]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:52:58.424] [warn]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:52:58.425] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:53:12.938] [error] 1234
+[2021-10-30 10:53:12.944] [info]  1234
+[2021-10-30 10:53:12.946] [warn]  1234
+[2021-10-30 10:53:12.947] [debug] 1234
+[2021-10-30 10:53:12.948] [error] 1234
+[2021-10-30 10:53:12.950] [info]  1234
+[2021-10-30 10:53:12.951] [warn]  1234
+[2021-10-30 10:53:12.953] [debug] 1234
+[2021-10-30 10:53:12.955] [error] { a: '123' }
+[2021-10-30 10:53:12.958] [info]  { a: '123' }
+[2021-10-30 10:53:12.959] [warn]  { a: '123' }
+[2021-10-30 10:53:12.960] [debug] { a: '123' }
+[2021-10-30 10:53:12.961] [error] true
+[2021-10-30 10:53:12.962] [info]  true
+[2021-10-30 10:53:12.962] [warn]  true
+[2021-10-30 10:53:12.963] [debug] true
+[2021-10-30 10:53:12.964] [error] [ '', true ]
+[2021-10-30 10:53:12.965] [info]  [ '', true ]
+[2021-10-30 10:53:12.967] [warn]  [ '', true ]
+[2021-10-30 10:53:12.968] [debug] [ '', true ]
+[2021-10-30 10:53:12.969] [error] [ '', true ]
+[2021-10-30 10:53:12.970] [info]  [ '', true ]
+[2021-10-30 10:53:12.972] [warn]  [ '', true ]
+[2021-10-30 10:53:12.973] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:53:12.974] [error] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:53:12.976] [info]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:53:12.977] [warn]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:53:12.979] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.717] [error] 1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.724] [info]  1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:5:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.727] [warn]  1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:6:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.729] [debug] 1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:7:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.732] [error] 1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.735] [info]  1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:9:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.737] [warn]  1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:10:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.739] [debug] 1234 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:11:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.741] [error] { a: '123' } Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:12:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.745] [info]  { a: '123' } Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:13:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.747] [warn]  { a: '123' } Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:14:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.749] [debug] { a: '123' } Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:15:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.751] [error] true Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:16:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.753] [info]  true Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:17:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.755] [warn]  true Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:18:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.757] [debug] true Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:19:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.758] [error] [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:20:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.761] [info]  [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:21:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.763] [warn]  [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:22:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.765] [debug] [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:23:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.767] [error] [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:24:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.769] [info]  [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:25:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.771] [warn]  [ '', true ] Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:26:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.773] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.775] [error] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.778] [info]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.780] [warn]  Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:56:25.783] [debug] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47 Error
+    at Logger.log (D:\Users\工作\Desktop\XM-Logger\dist\logger.js:81:38)
+    at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64)
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:10)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:08.294] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) 1234
+[2021-10-30 10:59:08.301] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) 1234
+[2021-10-30 10:59:08.303] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) 1234
+[2021-10-30 10:59:08.304] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) 1234
+[2021-10-30 10:59:08.305] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) 1234
+[2021-10-30 10:59:08.307] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) 1234
+[2021-10-30 10:59:08.308] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) 1234
+[2021-10-30 10:59:08.310] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) 1234
+[2021-10-30 10:59:08.311] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) { a: '123' }
+[2021-10-30 10:59:08.314] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) { a: '123' }
+[2021-10-30 10:59:08.315] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) { a: '123' }
+[2021-10-30 10:59:08.317] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) { a: '123' }
+[2021-10-30 10:59:08.318] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) true
+[2021-10-30 10:59:08.320] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) true
+[2021-10-30 10:59:08.321] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) true
+[2021-10-30 10:59:08.322] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) true
+[2021-10-30 10:59:08.323] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) [ '', true ]
+[2021-10-30 10:59:08.325] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) [ '', true ]
+[2021-10-30 10:59:08.327] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) [ '', true ]
+[2021-10-30 10:59:08.328] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) [ '', true ]
+[2021-10-30 10:59:08.329] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) [ '', true ]
+[2021-10-30 10:59:08.330] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) [ '', true ]
+[2021-10-30 10:59:08.331] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) [ '', true ]
+[2021-10-30 10:59:08.333] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:08.335] [error]     at Object.XmLogger.error (D:\Users\工作\Desktop\XM-Logger\dist\index.js:82:64) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:08.337] [info]      at Object.XmLogger.info (D:\Users\工作\Desktop\XM-Logger\dist\index.js:99:64) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:08.339] [warn]      at Object.XmLogger.warn (D:\Users\工作\Desktop\XM-Logger\dist\index.js:116:64) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:08.340] [debug]     at Object.XmLogger.debug (D:\Users\工作\Desktop\XM-Logger\dist\index.js:133:64) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:29.622] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:4:10) 1234
+[2021-10-30 10:59:29.628] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:5:10) 1234
+[2021-10-30 10:59:29.630] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:6:10) 1234
+[2021-10-30 10:59:29.631] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:7:10) 1234
+[2021-10-30 10:59:29.632] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:8:10) 1234
+[2021-10-30 10:59:29.635] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:9:10) 1234
+[2021-10-30 10:59:29.636] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:10:10) 1234
+[2021-10-30 10:59:29.638] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:11:10) 1234
+[2021-10-30 10:59:29.639] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:12:10) { a: '123' }
+[2021-10-30 10:59:29.642] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:13:10) { a: '123' }
+[2021-10-30 10:59:29.643] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:14:10) { a: '123' }
+[2021-10-30 10:59:29.645] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:15:10) { a: '123' }
+[2021-10-30 10:59:29.646] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:16:10) true
+[2021-10-30 10:59:29.648] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:17:10) true
+[2021-10-30 10:59:29.649] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:18:10) true
+[2021-10-30 10:59:29.650] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:19:10) true
+[2021-10-30 10:59:29.652] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:20:10) [ '', true ]
+[2021-10-30 10:59:29.653] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:21:10) [ '', true ]
+[2021-10-30 10:59:29.654] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:22:10) [ '', true ]
+[2021-10-30 10:59:29.656] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:23:10) [ '', true ]
+[2021-10-30 10:59:29.657] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:24:10) [ '', true ]
+[2021-10-30 10:59:29.659] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:25:10) [ '', true ]
+[2021-10-30 10:59:29.660] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:26:10) [ '', true ]
+[2021-10-30 10:59:29.662] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:10) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:29.664] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:10) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:29.666] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:10) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:29.668] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:10) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 10:59:29.669] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:10) Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:35:48.268] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:4:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.274] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:5:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.276] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:6:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.278] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:7:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.279] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:8:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.281] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:9:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.282] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:10:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.284] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:11:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:35:48.285] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:12:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:35:48.288] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:13:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:35:48.289] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:14:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:35:48.290] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:15:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:35:48.292] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:16:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:35:48.293] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:17:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:35:48.294] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:18:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:35:48.295] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:19:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:35:48.296] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:20:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.298] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:21:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.299] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:22:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.301] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:23:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.302] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:24:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.303] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:25:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.304] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:26:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:35:48.306] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:35:48.308] [error]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:35:48.310] [info]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:35:48.311] [warn]      at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:35:48.313] [debug]     at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:10) [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:36:32.107] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.113] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.115] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.116] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.117] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.119] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.120] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.122] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] 1234
+[2021-10-30 11:36:32.123] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:36:32.126] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:36:32.128] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:36:32.129] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] { a: '123' }
+[2021-10-30 11:36:32.130] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:36:32.131] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:36:32.133] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:36:32.134] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] true
+[2021-10-30 11:36:32.135] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.137] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.138] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.140] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.141] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.143] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.144] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] [ '', true ]
+[2021-10-30 11:36:32.145] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:36:32.146] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:36:32.149] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:36:32.151] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:36:32.152] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:37:39.366] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '4', '10' ] 1234
+[2021-10-30 11:37:39.374] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '5', '10' ] 1234
+[2021-10-30 11:37:39.376] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '6', '10' ] 1234
+[2021-10-30 11:37:39.377] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '7', '10' ] 1234
+[2021-10-30 11:37:39.379] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '8', '10' ] 1234
+[2021-10-30 11:37:39.381] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '9', '10' ] 1234
+[2021-10-30 11:37:39.383] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '10', '10' ] 1234
+[2021-10-30 11:37:39.385] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '11', '10' ] 1234
+[2021-10-30 11:37:39.386] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '12', '10' ] { a: '123' }
+[2021-10-30 11:37:39.388] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '13', '10' ] { a: '123' }
+[2021-10-30 11:37:39.389] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '14', '10' ] { a: '123' }
+[2021-10-30 11:37:39.391] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '15', '10' ] { a: '123' }
+[2021-10-30 11:37:39.392] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '16', '10' ] true
+[2021-10-30 11:37:39.393] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '17', '10' ] true
+[2021-10-30 11:37:39.395] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '18', '10' ] true
+[2021-10-30 11:37:39.396] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '19', '10' ] true
+[2021-10-30 11:37:39.397] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '20', '10' ] [ '', true ]
+[2021-10-30 11:37:39.398] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '21', '10' ] [ '', true ]
+[2021-10-30 11:37:39.400] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '22', '10' ] [ '', true ]
+[2021-10-30 11:37:39.401] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '23', '10' ] [ '', true ]
+[2021-10-30 11:37:39.403] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '24', '10' ] [ '', true ]
+[2021-10-30 11:37:39.404] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '25', '10' ] [ '', true ]
+[2021-10-30 11:37:39.406] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '26', '10' ] [ '', true ]
+[2021-10-30 11:37:39.407] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '27', '10' ] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:37:39.409] [error] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '28', '10' ] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:37:39.411] [info]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '29', '10' ] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:37:39.413] [warn]  [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '30', '10' ] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:37:39.414] [debug] [ 'D', '\\Users\\工作\\Desktop\\XM-Logger\\test\\test.js', '31', '10' ] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:38:58.774] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 11:38:58.780] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 11:38:58.782] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 11:38:58.783] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 11:38:58.784] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 11:38:58.787] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 11:38:58.788] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 11:38:58.790] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 11:38:58.791] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 11:38:58.793] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 11:38:58.795] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 11:38:58.796] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 11:38:58.797] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 11:38:58.798] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 11:38:58.800] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 11:38:58.801] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 11:38:58.802] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 11:38:58.804] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 11:38:58.805] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 11:38:58.807] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 11:38:58.808] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 11:38:58.809] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 11:38:58.811] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 11:38:58.812] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:38:58.814] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:38:58.816] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:38:58.817] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:38:58.819] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:36.561] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:4】 1234
+[2021-10-30 11:47:36.568] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:5】 1234
+[2021-10-30 11:47:36.570] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:6】 1234
+[2021-10-30 11:47:36.572] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:7】 1234
+[2021-10-30 11:47:36.573] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:8】 1234
+[2021-10-30 11:47:36.576] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:9】 1234
+[2021-10-30 11:47:36.577] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:10】 1234
+[2021-10-30 11:47:36.579] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:11】 1234
+[2021-10-30 11:47:36.580] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:12】 { a: '123' }
+[2021-10-30 11:47:36.583] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:13】 { a: '123' }
+[2021-10-30 11:47:36.584] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:14】 { a: '123' }
+[2021-10-30 11:47:36.585] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:15】 { a: '123' }
+[2021-10-30 11:47:36.586] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:16】 true
+[2021-10-30 11:47:36.588] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:17】 true
+[2021-10-30 11:47:36.589] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:18】 true
+[2021-10-30 11:47:36.590] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:19】 true
+[2021-10-30 11:47:36.591] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:20】 [ '', true ]
+[2021-10-30 11:47:36.593] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:21】 [ '', true ]
+[2021-10-30 11:47:36.594] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:22】 [ '', true ]
+[2021-10-30 11:47:36.596] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:23】 [ '', true ]
+[2021-10-30 11:47:36.597] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:24】 [ '', true ]
+[2021-10-30 11:47:36.598] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:25】 [ '', true ]
+[2021-10-30 11:47:36.599] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:26】 [ '', true ]
+[2021-10-30 11:47:36.601] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:27】 Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:36.602] [error] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:28】 Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:36.605] [info]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:29】 Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:36.607] [warn]  【D:\Users\工作\Desktop\XM-Logger\test\test.js:30】 Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:36.608] [debug] 【D:\Users\工作\Desktop\XM-Logger\test\test.js:31】 Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:54.483] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 11:47:54.489] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 11:47:54.492] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 11:47:54.493] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 11:47:54.494] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 11:47:54.496] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 11:47:54.497] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 11:47:54.499] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 11:47:54.500] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 11:47:54.503] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 11:47:54.505] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 11:47:54.506] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 11:47:54.507] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 11:47:54.508] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 11:47:54.509] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 11:47:54.510] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 11:47:54.511] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 11:47:54.512] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 11:47:54.513] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 11:47:54.514] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 11:47:54.515] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 11:47:54.517] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 11:47:54.518] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 11:47:54.519] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:54.523] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:54.525] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:54.527] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 11:47:54.528] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:19.768] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 12:51:19.774] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 12:51:19.776] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 12:51:19.777] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 12:51:19.778] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 12:51:19.781] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 12:51:19.782] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 12:51:19.784] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 12:51:19.785] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 12:51:19.788] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 12:51:19.789] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 12:51:19.790] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 12:51:19.791] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 12:51:19.793] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 12:51:19.794] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 12:51:19.795] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 12:51:19.796] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 12:51:19.797] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 12:51:19.798] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 12:51:19.799] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 12:51:19.800] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 12:51:19.802] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 12:51:19.803] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 12:51:19.804] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:19.806] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:19.807] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:19.810] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:19.811] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:54.769] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 12:51:54.776] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 12:51:54.778] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 12:51:54.779] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 12:51:54.781] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 12:51:54.783] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 12:51:54.785] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 12:51:54.786] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 12:51:54.787] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 12:51:54.790] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 12:51:54.791] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 12:51:54.793] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 12:51:54.794] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 12:51:54.795] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 12:51:54.796] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 12:51:54.797] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 12:51:54.798] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 12:51:54.799] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 12:51:54.800] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 12:51:54.802] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 12:51:54.803] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 12:51:54.804] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 12:51:54.805] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 12:51:54.806] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:54.808] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:54.810] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:54.813] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:51:54.815] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:08.281] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 12:52:08.290] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 12:52:08.292] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 12:52:08.293] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 12:52:08.295] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 12:52:08.297] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 12:52:08.298] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 12:52:08.300] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 12:52:08.301] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 12:52:08.303] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 12:52:08.305] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 12:52:08.306] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 12:52:08.308] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 12:52:08.309] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 12:52:08.310] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 12:52:08.311] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 12:52:08.312] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 12:52:08.314] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 12:52:08.315] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 12:52:08.316] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 12:52:08.318] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 12:52:08.319] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 12:52:08.320] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 12:52:08.321] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:08.323] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:08.325] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:08.327] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:08.329] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:33.136] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:4] 1234
+[2021-10-30 12:52:33.142] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:5] 1234
+[2021-10-30 12:52:33.144] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:6] 1234
+[2021-10-30 12:52:33.145] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:7] 1234
+[2021-10-30 12:52:33.147] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:8] 1234
+[2021-10-30 12:52:33.149] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:9] 1234
+[2021-10-30 12:52:33.151] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:10] 1234
+[2021-10-30 12:52:33.152] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:11] 1234
+[2021-10-30 12:52:33.153] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:12] { a: '123' }
+[2021-10-30 12:52:33.156] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:13] { a: '123' }
+[2021-10-30 12:52:33.158] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:14] { a: '123' }
+[2021-10-30 12:52:33.160] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:15] { a: '123' }
+[2021-10-30 12:52:33.161] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:16] true
+[2021-10-30 12:52:33.162] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:17] true
+[2021-10-30 12:52:33.164] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:18] true
+[2021-10-30 12:52:33.164] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:19] true
+[2021-10-30 12:52:33.166] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:20] [ '', true ]
+[2021-10-30 12:52:33.167] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:21] [ '', true ]
+[2021-10-30 12:52:33.168] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:22] [ '', true ]
+[2021-10-30 12:52:33.169] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:23] [ '', true ]
+[2021-10-30 12:52:33.170] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:24] [ '', true ]
+[2021-10-30 12:52:33.171] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:25] [ '', true ]
+[2021-10-30 12:52:33.173] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:26] [ '', true ]
+[2021-10-30 12:52:33.175] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:27] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:27:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:33.176] [error] [D:\Users\工作\Desktop\XM-Logger\test\test.js:28] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:28:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:33.179] [info]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:29] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:29:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:33.180] [warn]  [D:\Users\工作\Desktop\XM-Logger\test\test.js:30] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:30:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47
+[2021-10-30 12:52:33.183] [debug] [D:\Users\工作\Desktop\XM-Logger\test\test.js:31] Error: ,true
+    at Object.<anonymous> (D:\Users\工作\Desktop\XM-Logger\test\test.js:31:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at node:internal/main/run_main_module:17:47

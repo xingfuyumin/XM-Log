@@ -1,0 +1,9 @@
+{
+    "test": {
+        "file": true,
+        "console": true,
+        "debug": false,
+        "maxSize": 5,
+        "output": "D:\\Users\\工作\\Desktop\\XM-Logger\\logger\\"
+    }
+}
