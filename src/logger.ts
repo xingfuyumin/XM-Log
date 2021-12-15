@@ -102,8 +102,8 @@ class Logger {
       return;
     }
     const error = new Error().stack?.split('\n')[3];
-    const str = error?.substring(error.indexOf('(') + 1, error.lastIndexOf(')')) || '';
-    this.logger[level](`[${str.substring(0, str.lastIndexOf(':'))}]`, msg);
+    const str = error?.substring(error.indexOf('/'), error.lastIndexOf(':')) || '';
+    this.logger[level](`[${str}]`, msg);
   }
 }
 

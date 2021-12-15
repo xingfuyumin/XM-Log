@@ -1,6 +1,6 @@
 {
     "name": "xm-log",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "给桌面应用和后台服务提供日志打印机保存服务",
     "main": "dist/index.js",
     "scripts": {

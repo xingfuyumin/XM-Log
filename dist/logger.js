@@ -91,8 +91,8 @@ var Logger = /** @class */ (function () {
                 return;
             }
             var error = (_a = new Error().stack) === null || _a === void 0 ? void 0 : _a.split('\n')[3];
-            var str = (error === null || error === void 0 ? void 0 : error.substring(error.indexOf('(') + 1, error.lastIndexOf(')'))) || '';
-            _this.logger[level]("[" + str.substring(0, str.lastIndexOf(':')) + "]", msg);
+            var str = (error === null || error === void 0 ? void 0 : error.substring(error.indexOf('/'), error.lastIndexOf(':'))) || '';
+            _this.logger[level]("[" + str + "]", msg);
         };
         var file = config.file, console = config.console, debug = config.debug, output = config.output, maxSize = config.maxSize;
         this.logger = electronLog.create(name);
